@@ -1,3 +1,3 @@
 # ibm_data_certificate
 
-Test Test Test
+Storing files for the specialization
